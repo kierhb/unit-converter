@@ -151,3 +151,8 @@ p {
 
     color: #FFFFFF;
 }
+
+p#error-message {
+    margin: 0;
+    color: red;
+}
